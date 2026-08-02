@@ -11,7 +11,7 @@ keywords:
     - philosophy
 tags:
     - philosophy
-description: As we grow older we gradually lose our sense of wonder.
+description: Gradually losing our sense of wonder.
 ShowBreadCrumbs: false
 cover:
     image: 'https://images.unsplash.com/photo-1533073526757-2c8ca1df9f1c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'
