@@ -1,0 +1,45 @@
+baseURL: "https://sourpages.github.io/"
+title: "Sourpages"
+theme: "PaperMod"
+
+languages:
+  en:
+    label: English
+
+pagination:
+  pagerSize: 10
+
+enableRobotsTXT: true
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  ShowWordCount: true
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 10
+
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+  highlight:
+    style: github
+    lineNos: true
